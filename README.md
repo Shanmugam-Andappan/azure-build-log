@@ -11,3 +11,4 @@ Retooling into cloud/SRE — a running record of what I build.
 | 4 | | |
 | 5 | | |
 | 6 | | |
+| 7 | | |
